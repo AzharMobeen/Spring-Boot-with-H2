@@ -10,7 +10,7 @@ Demo project for beginners with H2 DB (In Memory Data Base)
 * ApplicationRunner
 
 # Notes:
-
+* test.js file added
 * You can check H2-Console:
     
     [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
@@ -18,7 +18,11 @@ Demo project for beginners with H2 DB (In Memory Data Base)
     
 ### Rebase and fork with master steps:
 * commit your local changes
-* need to do fetch.
-* test
-* last commit
-    
+* need to do fetch
+* rebase from master for local
+* push to fork
+* create PR for master
+
+
+Regards,
+Azhar
