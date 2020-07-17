@@ -8,11 +8,10 @@ Demo project for beginners with H2 DB (In Memory Data Base)
 * Rest
 * JSON (Parent child relation)
 * ApplicationRunner
-* Test
 
 # Notes:
 
-*From Fork
+* From Fork
 * You can check H2-Console:
     
     http://localhost:8080/h2-console
