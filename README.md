@@ -18,5 +18,7 @@ Demo project for beginners with H2 DB (In Memory Data Base)
     
 ### Rebase and fork with master steps:
 * commit your local changes
+* need to do fetch
+
 
     
